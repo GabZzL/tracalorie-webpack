@@ -90,7 +90,7 @@
     "wildcard": "^2.0.1"
   },
   "scripts": {
-    "build": "webpack",
+    "create": "webpack",
     "dev": "webpack serve"
   },
   "author": "armando gabriel",
